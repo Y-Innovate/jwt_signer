@@ -1,0 +1,8 @@
+*  zos-working-tree-encoding=UTF-8
+
+*.sh  zos-working-tree-encoding=ISO8859-1
+*.md  zos-working-tree-encoding=ISO8859-1
+
+.gitattributes  zos-working-tree-encoding=ISO8859-1
+.gitignore  zos-working-tree-encoding=ISO8859-1
+
